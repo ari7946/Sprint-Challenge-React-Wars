@@ -1,0 +1,19 @@
+.card-wrapper {
+  height: 250px;
+  width: 33.3333%;
+  background: #3333;
+  border-radius: 4px;
+  margin: 0 auto;
+  color: white;
+  padding-top: 2rem;
+  background-color: rgba(0,0,0,.5);
+  margin-bottom: 1rem;
+}
+
+.chars-wrapper {
+  width: 100%;
+}
+
+.card-wrapper div {
+  padding-top: 1rem;
+}
